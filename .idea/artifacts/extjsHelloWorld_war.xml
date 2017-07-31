@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="extjsHelloWorld:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="extjsHelloWorld.war">
+      <element id="artifact" artifact-name="extjsHelloWorld:war exploded" />
+    </root>
+  </artifact>
+</component>
